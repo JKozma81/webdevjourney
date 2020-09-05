@@ -11,5 +11,15 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
-    .sass('resources/sass/app.scss', 'public/css');
+mix.sass('resources/sass/main.scss', 'public/css');
+mix.sass('resources/sass/noscript.scss', 'public/css');
+
+mix.js('resources/js/main.js', 'public/js');
+mix.js('resources/js/util.js', 'public/js');
+mix.copy('resources/js/vendor', 'public/js/vendor', false);
+mix.copy('resources/images', 'public/images', false);
+
+mix.copy('resources/webfonts', 'public/webfonts', false);
+
+// mix.js('resources/js/app.js', 'public/js')
+//     .sass('resources/sass/app.scss', 'public/css');
