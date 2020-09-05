@@ -24,15 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09339ac1-a2f5-4f2f-a241-6fcc28854c05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resources/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resources/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resources/sass/app.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/views/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/webpack.mix.js" afterDir="false" />
-    </list>
+    <list default="true" id="09339ac1-a2f5-4f2f-a241-6fcc28854c05" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,6 +140,7 @@
       <path value="$PROJECT_DIR$/admin/vendor/vlucas/phpdotenv" />
       <path value="$PROJECT_DIR$/admin/vendor/phpunit/php-token-stream" />
       <path value="$PROJECT_DIR$/admin/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/admin/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1h4zWCH8yVSkojhHaxZ8zzZBlCP" />

@@ -1,1 +1,12 @@
-//
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+//@import 'variables';
+@import "vendor/thomaspark/bootswatch/dist/flatly/variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+@import "vendor/thomaspark/bootswatch/dist/flatly/bootswatch";
+
+
