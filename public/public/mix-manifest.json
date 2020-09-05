@@ -1,4 +1,7 @@
 {
     "/js/main.js": "/js/main.js",
-    "/js/util.js": "/js/util.js"
+    "/css/main.css": "/css/main.css",
+    "/css/noscript.css": "/css/noscript.css",
+    "/js/util.js": "/js/util.js",
+    "/css/fontawesome-all.min.css": "/css/fontawesome-all.min.css"
 }
